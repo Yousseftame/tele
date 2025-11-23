@@ -210,7 +210,7 @@ export default function AdminPartner() {
                 </h1>
               </div>
               <p className="text-slate-500 ml-14">
-                Manage your partners with multilingual support
+                Manage your partners with multilingual supportk
               </p>
             </div>
 
